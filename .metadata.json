@@ -1,0 +1,10 @@
+[
+  {
+    "package": "hint",
+    "oncran": true
+  },
+  {
+    "package": "linkcomm",
+    "oncran": true
+  }
+]
