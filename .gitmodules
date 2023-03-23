@@ -13,3 +13,8 @@
 	url = https://github.com/alextkalinka/linkcomm
 	shallow = true
 	registered = true
+[submodule "muscle"]
+	path = muscle
+	url = https://git.bioconductor.org/packages/muscle
+	shallow = true
+	registered = true
