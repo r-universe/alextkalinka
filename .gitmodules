@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "hint"]
 	path = hint
 	url = https://github.com/alextkalinka/hint
-	shallow = true
-	registered = true
 [submodule "linkcomm"]
 	path = linkcomm
 	url = https://github.com/alextkalinka/linkcomm
-	shallow = true
-	registered = true
 [submodule "muscle"]
 	path = muscle
 	url = https://git.bioconductor.org/packages/muscle
-	shallow = true
-	registered = true
