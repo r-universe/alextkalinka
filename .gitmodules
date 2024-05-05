@@ -8,6 +8,3 @@
 [submodule "linkcomm"]
 	path = linkcomm
 	url = https://github.com/alextkalinka/linkcomm
-[submodule "muscle"]
-	path = muscle
-	url = https://git.bioconductor.org/packages/muscle
