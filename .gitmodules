@@ -5,6 +5,3 @@
 [submodule "hint"]
 	path = hint
 	url = https://github.com/alextkalinka/hint
-[submodule "linkcomm"]
-	path = linkcomm
-	url = https://github.com/alextkalinka/linkcomm
